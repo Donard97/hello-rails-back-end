@@ -6,7 +6,7 @@
 
 ## Link to React frontend
 
-[GitHub PR](https://github.com/mmatongo/hello-rails-front-end/)
+[React Project PR](https://github.com/Donard97/hello-react-front-end/pull/1)
 
 ## Built With
 
@@ -34,19 +34,14 @@ To get a local copy up and running follow these simple example steps.
 
 ### Database
 
-# Create user
+#### Create user
 - sudo -u postgres createuser hello_rails_back_end -s
-# create database, load schema and seed data
+#### Create database, load schema and seed data
 - rails db:reset db:seed
 
 ### Run
 
 - rails s
-
-### Troubleshoot
-
-### Undo migration
-- rake db:migrate VERSION=0
 
 ## Author
 
