@@ -13,8 +13,8 @@ gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
-# gem "jbuilder"
-
+gem "jbuilder"
+gem 'rack-cors'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
@@ -33,6 +33,8 @@ gem 'bootsnap', require: false
 gem 'webpacker'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+gem 'stimulus-rails'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
