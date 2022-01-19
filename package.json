@@ -1,13 +1,10 @@
 {
   "dependencies": {
     "@rails/webpacker": "5.4.3",
-    "npm": "^8.3.1",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
-    "postcss-markdown": "^1.2.0",
-    "postcss-syntax": "^0.36.2",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
