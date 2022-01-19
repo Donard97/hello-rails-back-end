@@ -6,7 +6,7 @@
 
 ## Link to React frontend
 
-[GitHub PR](https://github.com/mmatongo/hello-rails-front-end/)
+[React Project PR](https://github.com/Donard97/hello-react-front-end/pull/1)
 
 ## Built With
 
@@ -42,11 +42,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run
 
 - rails s
-
-### Troubleshoot
-
-### Undo migration
-- rake db:migrate VERSION=0
 
 ## Author
 
