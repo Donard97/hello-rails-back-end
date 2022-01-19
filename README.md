@@ -34,9 +34,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Database
 
-# Create user
+#### Create user
 - sudo -u postgres createuser hello_rails_back_end -s
-# create database, load schema and seed data
+#### Create database, load schema and seed data
 - rails db:reset db:seed
 
 ### Run
